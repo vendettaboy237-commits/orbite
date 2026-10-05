@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🪐 Orbite
+# 🪐 Orbite — Téléchargement Android
+
+> Dépôt officiel de téléchargement de l'application. Le code source d'Orbite reste privé et n'est pas publié ici.
 
 **Le réseau social québécois — pensé pour les vraies connexions.**
 
@@ -59,7 +61,7 @@ Ouvre Orbite, crée ton compte avec ton courriel, confirme le courriel reçu —
 
 ## 🔏 Confiance et sécurité
 
-- Chaque version publiée ici est **signée numériquement** par Orbite ; l'empreinte **SHA-256** de chaque APK figure dans ses notes de version — compare-la si tu veux vérifier l'intégrité du fichier téléchargé (par exemple avec l'application « Vérificateur de fichiers »).
+- Chaque version publiée ici est **signée numériquement** par Orbite : Android refuse d'installer un APK signé par quelqu'un d'autre.
 - Les conversations privées bénéficient d'un **chiffrement de bout en bout** et de protections contre les captures d'écran.
 - Signalement et blocage disponibles partout, modération assistée par IA sur les contenus publiés.
 
