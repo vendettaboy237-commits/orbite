@@ -8,9 +8,9 @@
 
 Fil d'actualité · Reels · Messagerie chiffrée · Événements · Carte vivante · Covoiturage · Marketplace · Mini-jeux · Clubs audio
 
-[![Télécharger la dernière version](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-Derni%C3%A8re%20version%20APK-6d28d9?style=for-the-badge&logo=android)](https://github.com/vendettaboy237-commits/orbite/releases/latest)
+[![Télécharger l'application](https://img.shields.io/badge/T%C3%A9l%C3%A9charger-l%27application%20Android-6d28d9?style=for-the-badge&logo=android)](https://orbitesocial.ca/orbite-latest.apk)
 
-[Site web](https://orbitesocial.ca) · [Version web (PWA)](https://orbitesocial.ca) · [Notes de version](https://github.com/vendettaboy237-commits/orbite/releases)
+[Site web](https://orbitesocial.ca) · [Version web (PWA)](https://orbitesocial.ca) · [Notes de version](https://orbitesocial.ca/telecharger)
 
 </div>
 
@@ -20,7 +20,7 @@ Fil d'actualité · Reels · Messagerie chiffrée · Événements · Carte vivan
 
 ### 1. Télécharger l'application
 
-Rends-toi sur la page [**Releases**](https://github.com/vendettaboy237-commits/orbite/releases/latest) et télécharge le fichier **APK** de la version la plus récente.
+Rends-toi sur la page la page [**Télécharger**](https://orbitesocial.ca/telecharger) et récupère le fichier **APK** de la version la plus récente — ou touche simplement le gros bouton ci-dessus.
 
 > 💡 **Pas sur ton téléphone ?** Télécharge le fichier sur ton ordinateur puis transfère-le sur ton téléphone (câble USB, Drive, courriel…), ou ouvre simplement cette page depuis le navigateur de ton téléphone.
 
